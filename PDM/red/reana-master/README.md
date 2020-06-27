@@ -1,6 +1,7 @@
 # Guia de emergencias y centros de salud
-![Primero](assets/uno.jpg) ![Segundo](assets/dos.jpg)
-![Tercero](assets/tres.jpg) ![Cuarto](assets/cuatro.jpg)
+![](assets/uno.jpg)![](assets/dos.jpg)
+
+![](assets/tres.jpg)![](assets/cuatro.jpg)
 
 _Con esta app, podrá encontrar información actualizada y confiable de los centros de salud y enviar solicitudes de emergencias a los centros de salud cercanos a UD. _
 
