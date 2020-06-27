@@ -1,0 +1,4 @@
+#Wed Apr 01 19:22:49 BOT 2020
+base.0=D\:\\PDM-Isaac-Herrera-MAre-o\\DefenzaHito2\\DefenzaHito2\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

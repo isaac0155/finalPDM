@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0eeca8c52200ecfeb82678ea60b830f9\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3307276f3abe11973a1f0ccb7bf4c26c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ed9b2805a73ed9e30a2d48d577f1d78c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0c1db857ae1c9610c6b0cfbea101c75d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\f1482766d57f95aec1dfa8c26a74d141\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c74c55fdf6543c2905872345ee98af9f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\68ef43f82ed00016ee8ee0ef651daa96\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\64645445ac9c2130d5bee4da39fe5fc9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2196b9fad121e25f79ef7b01f39dbd00\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\8edd20b924d31676ae215ef4f3fb8746\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\d0d608be4463998b10dda90ec300b8a2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\822f77f8c9dc1a0955769618a1159518\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3f445aa94f0495e80e550929aac7a9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0036c97da11d6de25e97a798f9d48633\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bbb16f3bce130c6cb404bfdc31551c58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0a4c4a2b4ca0a3cd3bd8487d031f3507\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\6061527804b8a503956b88c2cbbe62a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a26efaef48086c9012c1e73d5e260e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b407cbea0250fc96b1bb7e2c7d4fc7c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a98bc8109ba86e0b96de4404ada51da6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\fab764907a761de925f246c0a6c31f27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2c604c3c95553bd26b91f25756c8089d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\71eb356aae0703d17b7df26aef7c1763\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ba6f13c30bb7a0f302bd74eb8b10eef2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\46235d3bc453bc17f98db86c1c1a3b28\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\00b1bebcac36e508ed0274d4d9901e90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0460da5f6e08f9f5bb8d3594af561f11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c17a8d5cad98d1df0c681fc25f598815\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b5ace65f62d07cf748ebc06b3e0e3ed3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c4efb43badf02087df72c5c318455b31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\7c4ca2230cd4b165610ec10c66c852cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ce586a2d33fcb5bd7ccb6bfbd12090ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\88222ec5f42a62b688e15dbaed7e6e40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\43bade3d58c08bbe45ce2218b1c57571\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\dd609185e9d055ed5ea5819f07e67166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b1b5bf3b5a77df48c0af35d4c5500ca8\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0eeca8c52200ecfeb82678ea60b830f9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0eeca8c52200ecfeb82678ea60b830f9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\d0d608be4463998b10dda90ec300b8a2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\d0d608be4463998b10dda90ec300b8a2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\46235d3bc453bc17f98db86c1c1a3b28\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\46235d3bc453bc17f98db86c1c1a3b28\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.myfristapprn.MainActivity
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0eeca8c52200ecfeb82678ea60b830f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0eeca8c52200ecfeb82678ea60b830f9\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3307276f3abe11973a1f0ccb7bf4c26c\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3307276f3abe11973a1f0ccb7bf4c26c\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ed9b2805a73ed9e30a2d48d577f1d78c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ed9b2805a73ed9e30a2d48d577f1d78c\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0c1db857ae1c9610c6b0cfbea101c75d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0c1db857ae1c9610c6b0cfbea101c75d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\f1482766d57f95aec1dfa8c26a74d141\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\f1482766d57f95aec1dfa8c26a74d141\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c74c55fdf6543c2905872345ee98af9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c74c55fdf6543c2905872345ee98af9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\68ef43f82ed00016ee8ee0ef651daa96\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\68ef43f82ed00016ee8ee0ef651daa96\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\64645445ac9c2130d5bee4da39fe5fc9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\64645445ac9c2130d5bee4da39fe5fc9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2196b9fad121e25f79ef7b01f39dbd00\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2196b9fad121e25f79ef7b01f39dbd00\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\8edd20b924d31676ae215ef4f3fb8746\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\8edd20b924d31676ae215ef4f3fb8746\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\d0d608be4463998b10dda90ec300b8a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\d0d608be4463998b10dda90ec300b8a2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\822f77f8c9dc1a0955769618a1159518\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\822f77f8c9dc1a0955769618a1159518\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3f445aa94f0495e80e550929aac7a9a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\3f445aa94f0495e80e550929aac7a9a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0036c97da11d6de25e97a798f9d48633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0036c97da11d6de25e97a798f9d48633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bbb16f3bce130c6cb404bfdc31551c58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bbb16f3bce130c6cb404bfdc31551c58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0a4c4a2b4ca0a3cd3bd8487d031f3507\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0a4c4a2b4ca0a3cd3bd8487d031f3507\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\6061527804b8a503956b88c2cbbe62a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\6061527804b8a503956b88c2cbbe62a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a26efaef48086c9012c1e73d5e260e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a26efaef48086c9012c1e73d5e260e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b407cbea0250fc96b1bb7e2c7d4fc7c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b407cbea0250fc96b1bb7e2c7d4fc7c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a98bc8109ba86e0b96de4404ada51da6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\a98bc8109ba86e0b96de4404ada51da6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\fab764907a761de925f246c0a6c31f27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\fab764907a761de925f246c0a6c31f27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2c604c3c95553bd26b91f25756c8089d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\2c604c3c95553bd26b91f25756c8089d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\71eb356aae0703d17b7df26aef7c1763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\71eb356aae0703d17b7df26aef7c1763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ba6f13c30bb7a0f302bd74eb8b10eef2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ba6f13c30bb7a0f302bd74eb8b10eef2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\bab1e8d7c858652060ca267626734048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\46235d3bc453bc17f98db86c1c1a3b28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\46235d3bc453bc17f98db86c1c1a3b28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\00b1bebcac36e508ed0274d4d9901e90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\00b1bebcac36e508ed0274d4d9901e90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0460da5f6e08f9f5bb8d3594af561f11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\0460da5f6e08f9f5bb8d3594af561f11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c17a8d5cad98d1df0c681fc25f598815\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c17a8d5cad98d1df0c681fc25f598815\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b5ace65f62d07cf748ebc06b3e0e3ed3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b5ace65f62d07cf748ebc06b3e0e3ed3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c4efb43badf02087df72c5c318455b31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\c4efb43badf02087df72c5c318455b31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\7c4ca2230cd4b165610ec10c66c852cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\7c4ca2230cd4b165610ec10c66c852cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ce586a2d33fcb5bd7ccb6bfbd12090ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\ce586a2d33fcb5bd7ccb6bfbd12090ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\88222ec5f42a62b688e15dbaed7e6e40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\88222ec5f42a62b688e15dbaed7e6e40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\43bade3d58c08bbe45ce2218b1c57571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\43bade3d58c08bbe45ce2218b1c57571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\dd609185e9d055ed5ea5819f07e67166\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\dd609185e9d055ed5ea5819f07e67166\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b1b5bf3b5a77df48c0af35d4c5500ca8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\isaac\.gradle\caches\transforms-2\files-2.1\b1b5bf3b5a77df48c0af35d4c5500ca8\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\PDM-Isaac-Herrera-MAre-o\MyFristAppRN\android\app\src\debug\AndroidManifest.xml:5:22-75
