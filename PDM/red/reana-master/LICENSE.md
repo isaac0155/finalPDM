@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 dheeyi william
+Copyright (c) 2020 Isaac Limbert Herrera Mareño
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

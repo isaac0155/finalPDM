@@ -23,7 +23,7 @@ _Primero que nada necesitamos saber que se usan los siguientes recursos:_
 * Google Maps API
 * FIREBASE
 * MySQL
-*
+* 
 * Una vez instalados y configurados Iniciamos un nuevo proyecto, escribimos en nuestra consola:
 ```
 npx react-native init NOMBRE_DE_TU_PROYECTO
