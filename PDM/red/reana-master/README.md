@@ -23,8 +23,7 @@ _Primero que nada necesitamos saber que se usan los siguientes recursos:_
 * Google Maps API
 * FIREBASE
 * MySQL
-* 
-* Una vez instalados y configurados Iniciamos un nuevo proyecto, escribimos en nuestra consola:
+Una vez instalados y configurados Iniciamos un nuevo proyecto, escribimos en nuestra consola:
 ```
 npx react-native init NOMBRE_DE_TU_PROYECTO
 ```
@@ -63,6 +62,16 @@ _AHORA CONECTAMOS NUESTRO DISPOSITIVO A NUENTRO ORDENADOR VIA USB_
 npx react-native run-android
 ```
 
+## Ahora veamos la funcionalidad
+### Inicio
+Para conseguir el inicio que se vé, 2 onboardings con la presentacion del proyecto, se utilizó una librería que fue elaborada por mi persona, esta librería fue subida a https://npmjs.com y está disponible para su descarga con el comando:
+```
+npm install --save examen_hito4
+```
+![](assets/uno.jpg)
+Este onboard tiene la funcionalidad de presentar un resumen muy corto hacerca del sistema, presionando los botones de la parte inferior se puede Saltar esta sección o verla completa, para luego poder ingresal al login de la App:
+![](assets/dos.jpg)
+Si yá estas registrado en la Aplicación entonces puedes inicar sesión con tu Email y Pass registrados previamente, en caso de que no esté registrado entonces puedes ingresar a la seccion de registro, presionando el botton registrarse.
 ## Autor ✒️
 
 * **Isaac Limbert Herrera Mareño** - *Desarrollo de la App* - [Guit Isaac0155](https://github.com/Isaac0155)
