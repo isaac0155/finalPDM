@@ -69,26 +69,43 @@ Para conseguir el inicio que se vé, 2 onboardings con la presentacion del proye
 npm install --save examen_hito4
 ```
 ![](assets/uno.jpg)
+
 Este onboard tiene la funcionalidad de presentar un resumen muy corto hacerca del sistema, presionando los botones de la parte inferior se puede Saltar esta sección o verla completa, para luego poder ingresal al login de la App:
+
 ![](assets/dos.jpg)
+
 Si yá estas registrado en la Aplicación entonces puedes inicar sesión con tu Email y Pass registrados previamente, en caso de que no esté registrado entonces puedes ingresar a la seccion de registro, presionando el botton registrarse.
+
 ![](assets/cinco.jpg)
+
 Luego una vez iniciamos sesión podemos ingresar a la funcionalidad completa del sistema:
+
 ![](assets/tres.jpg)
+
 Ahí podemos apreciar la presentación de la App, y nos encontramos con 2 botones grande:
 * Modo de guía de centros de salud
 * Modo de emergencias de centros de salud
 Estos modos seleccionando los botones respectivos podemos ingresar a ellos, **Estos módulos aún estan en Proseso de Dessarrollo**
+
 ![](assets/seis.jpg)![](assets/siete.jpg)
+
 Luego podemos ver en al área de registros, deslizando el borde de la parte izquierda de la pantalla hacia el lado derecho.
+
 ![](assets/dies.jpg)
+
 Ingresamos al registro de  recepción de Reclamos
+
 ![](assets/nueve.jpg)
+
 Donde ingresamos nuestro Reclamo y luego con el boton de **Enviar** guardaremos nuestros reclamos.
 Ahora si pasamos por el menú al registro de pacientes:
+
 ![](assets/ocho.jpg)
+
 Ingresamos los datos requeridos en los campos de texto vación y registramos un nuevo paciente seleccionando el Boton de **Registrar paciente**
+
 ![](assets/cuatro.jpg)
+
 Y lo mismo con El registro de **Centros de salud**
 ## Autor ✒️
 
