@@ -4,4 +4,7 @@
  * Presentación de diapositivas en formato PDF.
  * Manual de Usuario en formato PDF.
  * Video de la funcionalidad de la App **(-72Mb-)**
+ __
 MAnejo de evidencias y desarrollo de la materia Programaciòn de Dispositivos Mòviles.
+
+27/06/2020
